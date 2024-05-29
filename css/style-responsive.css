@@ -78,7 +78,7 @@
 
     #recherche {
     width: 100%;
-    justify-content: center;
+    
     }
 
     header {
@@ -145,7 +145,7 @@
         font-weight: bold;
         margin-top: 10px;
         margin-right:0;
-        padding : 14px 1px 14px 19px;
+        padding : 14px 19px 14px 19px;
         text-align: left;
     }
 
@@ -227,7 +227,7 @@
     }
 
     .populaires-cards .card {
-        margin-top: 0px;
+        margin-top: 20px;
     }
 
     .populaires-cards a {
